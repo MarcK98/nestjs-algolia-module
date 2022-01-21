@@ -5,7 +5,7 @@ import { AlgoliaSearchOptions } from 'algoliasearch';
 export interface AlgoliaModuleOptions {
     applicationId: string;
     apiKey: string;
-    options: AlgoliaSearchOptions;
+    options?: AlgoliaSearchOptions;
 }
 
 export interface AlgoliaModuleOptionsFactory {

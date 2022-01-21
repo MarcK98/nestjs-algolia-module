@@ -1,6 +1,6 @@
 {
   "name": "nestjs-algolia-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The super fast Algolia NestJS module",
   "repository": "https://github.com/MarcK98/nestjs-algolia-module.git",
   "author": "Marc Khoury <marc.khoury.98@gmail.com>",
