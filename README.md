@@ -119,8 +119,4 @@ export class ExampleService {
 
 ## Support
 
-If you use and like this library, buy me a coffee!
-
-[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?business=B3F78MJ4PP7XC&no_recurring=0&currency_code=USD)
-
 Code contributions are encouraged and welcomed!
